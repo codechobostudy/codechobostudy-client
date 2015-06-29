@@ -1,0 +1,29 @@
+{
+  "bitwise": true,
+  "camelcase": false,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "trailing": true,
+  "browser": true,
+  "jquery": true,
+  "node" : true,
+  "predef": [
+    "require"
+  ],
+  "globals" :{
+    "alert" : false,
+    "console" : false
+  }
+}
