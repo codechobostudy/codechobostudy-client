@@ -19,8 +19,11 @@
     "gulp-coffeelint": "^0.5.0",
     "gulp-jshint": "^1.11.0",
     "gulp-less": "^3.0.3",
+    "gulp-livereload": "^3.8.0",
     "jshint-stylish": "^2.0.0",
-    "wiredep": "^2.2.2",
-    "gulp-livereload": "^3.8.0"
+    "opn": "^3.0.2",
+    "serve-index": "^1.7.0",
+    "serve-static": "^1.10.0",
+    "wiredep": "^2.2.2"
   }
 }
